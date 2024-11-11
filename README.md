@@ -35,6 +35,6 @@ Instructions to run the application.
    streamlit run addition.py
 
 ## Contact
-Nicolas Liberio - ingedesistemas24@gmail.com
+Nicolas Liberio -- ingedesistemas24@gmail.com
 
 Link to the repository: https://github.com/nicoliberios/Addition.git
