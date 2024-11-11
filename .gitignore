@@ -1,0 +1,6 @@
+envAddition/
+.vscode/
+--pycache--/
+*.pyc
+*.tmp
+*.log
