@@ -33,7 +33,12 @@ Instructions to run the application.
  - Run
    ```bash
    streamlit run addition.py
+   ```
 
+To run the docker image you need to map the port with
+      ```bash
+   docker run -p 8501:8501 nicoliberios/addition
+   ```
 ## Contact
 Nicolas Liberio -- ingedesistemas24@gmail.com
 
